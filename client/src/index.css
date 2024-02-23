@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400&display=swap');
+
+* {
+  margin    : 0;
+  padding   : 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #DBE4D8;
+}
+
+.responsive-container {
+  margin-top : 93px !important;
+  padding-top: 10px;
+
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.row {
+  margin: 16px 0 0 0;
+}
+
+.bottom-shadow {
+  box-shadow: 0 6px 6px -6px gray;
+}
+
+.button-to-top {
+  position        : fixed;
+  right           : 20px;
+  bottom          : 170px;
+  padding         : 0 5px;
+  border-radius   : 3px;
+  background-color: red;
+  border          : 1px solid red;
+}
+
+/* font-family: 'Poppins', sans-serif;  */
+/* font-family: 'Playfair Display', serif; */
+/* Header */
+.header-wrapper {
+  position: fixed;
+  width   : 100%;
+  top     : 0;
+  right   : 0;
+  z-index : 999;
+}
+
+.navbar {
+  font-family        : 'Poppins', sans-serif;
+  font-size          : 17px;
+  line-height        : 26px;
+  text-transform     : uppercase;
+  box-shadow         : 0 8px 6px -6px gray;
+  padding            : 0;
+  /* border-bottom   : solid gray; */
+  background-color   : #000 !important;
+}
+
+/* .header .navbar-brand {
+  color : white;
+  height: 70px;
+  width : 70px;
+} */
+.header .header-logo {
+  color      : white;
+  width      : 50px;
+  height     : 50px;
+  text-align : center;
+  line-height: 50px;
+}
+
+/* custom icon navbar toggler */
+.custom-toggler.navbar-toggler {
+  border-color: lightgray;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+/* css navlink in navbar header */
+.header .nav-link {
+  font-weight: 300 !important;
+  color      : white;
+}
+
+.header .nav-link:hover {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.header .active {
+  border-bottom: 2px solid #ffefba;
+  color        : white !important;
+
+}
+
+.header {
+  color: white !important;
+}
+
+.header .search-form {
+  margin-left: 40%;
+  transform  : translateX(-50%);
+}
+
+/* Brands in header */
+.header-wrapper .brands-container {
+  background-color: white;
+  padding         : 3px;
+  box-shadow      : 0 8px 6px -6px gray;
+  border-bottom   : solid gray;
+
+}
+
+.brands-container .brand {
+  font-size      : 16px;
+  font-weight    : 600;
+  color          : black;
+  text-decoration: none;
+  text-transform : uppercase;
+  cursor         : pointer;
+}
+
+.brands-container .brand:nth-child(n+2) {
+  border-left: 1px solid black;
+}
+
+.brands-container .brand:hover {
+  text-decoration: underline;
+}
+
+.brands-container .active {
+  text-decoration: underline;
+  color          : black;
+
+}
+
+/* ===========Footer========== */
+.footer {
+  color     : white;
+  padding   : 25px;
+  background: linear-gradient(to right, #434343, #000000);
+  position  : relative;
+  width     : 100%;
+  bottom    : 0;
+  left      : 0;
+}
+
+.footer a {
+  text-decoration: none;
+  color          : white;
+  padding        : 10px;
+}
+
+.footer a:hover {
+  color        : #ffefba;
+  border-bottom: 1px solid #ffefba;
+}
+
+/* ===========Page not found============== */
+.pnf {
+  min-height     : 65vh;
+  display        : flex;
+  justify-content: center;
+  align-items    : center;
+  flex-direction : column;
+}
+
+.pnf-title {
+  font-size  : 100px;
+  font-weight: 700;
+}
+
+.pnf-message {
+  font-weight: normal;
+}
+
+.pnf-button {
+  color          : black;
+  border         : 1px solid black;
+  text-decoration: none;
+  padding        : 10px;
+  margin-top     : 10px;
+  border-radius  : 10px;
+}
+
+/* ===============Register============== */
+.form-container {
+  display               : flex;
+  align-items           : center;
+  justify-content       : center;
+  min-height            : 70vh;
+  flex-direction        : column;
+  margin                : 20px;
+  /* background-color   : #ffdee9; */
+  /* background-image   : linear-gradient(0, #ffdee9 0%, #b5fffc 100%); */
+}
+
+.form-container form {
+  box-shadow      : rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding         : 20px;
+  background-color: #fff;
+}
+
+.form-container form .title {
+  text-align   : center;
+  margin-bottom: 15px;
+  font-weight  : bold;
+  font-family  : "Playfair Display", serif;
+}
+
+.form-container form input {
+  border       : none;
+  border-bottom: 1px solid #000;
+  border-radius: 0;
+}
+
+.form-container form label {
+  font-weight: 600;
+  cursor     : pointer;
+}
+
+.form-container form button {
+  border          : 1px solid black;
+  border-radius   : 0;
+  background-color: #000;
+  color           : white;
+  width           : 300px;
+
+
+}
+
+.form-container form button:hover {
+  background: linear-gradient(to right, #434343, #000000);
+
+}
+
+/* HOMEPAGE */
+
+.homepage-wrapper .block-content {
+  background   : white;
+  padding      : 10px 0;
+  border-radius: 20px;
+}
+
+.homepage-wrapper .block-content-title {
+  display        : flex;
+  justify-content: space-between;
+}
+
+
+/* .homepage-wrapper>.row {
+  margin: 10px 0 0 0;
+} */
+
+/* Table */
+table {
+  background-color: white;
+  border-radius   : 10px;
+}
+
+
+
+/* dashboard */

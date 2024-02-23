@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "646f9f7ede7b479272764cdd"
+  },
+  "firstName": "first",
+  "lastName": "admin",
+  "userName": "admin01",
+  "email": "admin01@gmail.com",
+  "password": "$2b$10$YjEInIad62JjqsfNBtyBLORTeIQS1QxGVjo.0yDZfsQYantlf/MYG",
+  "isAdmin": true,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDZmOWY3ZWRlN2I0NzkyNzI3NjRjZGQiLCJpYXQiOjE2ODc3MTAzNzgsImV4cCI6MTY4Nzc5Njc3OH0.qSQRHWYKXtUXmqgX5MoTgPBOVieo6t44tL2FKjFI5Gs",
+  "createdAt": {
+    "$date": "2023-05-25T17:48:46.925Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T16:26:18.334Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647020cfaa7655fcb8863d77"
+  },
+  "firstName": "Nguyễn",
+  "lastName": "Duy",
+  "userName": "user01",
+  "email": "user01@gmail.com",
+  "password": "$2b$10$GUeeag9HIxngQGsVZfFcs.3IpHKzTgx9oxdqdcZxUn8kBAXMNwwra",
+  "isAdmin": false,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDcwMjBjZmFhNzY1NWZjYjg4NjNkNzciLCJpYXQiOjE2ODc2NzA5NTQsImV4cCI6MTY4Nzc1NzM1NH0.fFWIyMNPsCRU1Pw-whC67G4QWY1aVsUbqrt76JYqLPk",
+  "phone": "123456",
+  "address": "Hà nội",
+  "createdAt": {
+    "$date": "2023-05-26T03:00:31.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-25T05:29:14.817Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647020e7aa7655fcb8863d7e"
+  },
+  "firstName": "Nguyễn Khánh",
+  "lastName": "Duy 2",
+  "userName": "user02",
+  "email": "user02@gmail.com",
+  "password": "$2b$10$t8cVWuUDH1G1XmRv3YFqQufpnlgQtZHJafesM29ABFMobDTVF9RhS",
+  "isAdmin": false,
+  "refresh_token": "",
+  "phone": "123456",
+  "address": "Hà nội",
+  "createdAt": {
+    "$date": "2023-05-26T03:00:55.697Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-26T04:05:51.383Z"
+  },
+  "__v": 0
+}]

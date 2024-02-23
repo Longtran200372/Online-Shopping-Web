@@ -1,0 +1,797 @@
+[{
+  "_id": {
+    "$oid": "646ed2c1eb039c973d143147"
+  },
+  "name": "Iphone 7",
+  "description": "iphone 7 new",
+  "categories": [
+    "like new"
+  ],
+  "brand": "iphone",
+  "images": [
+    "/images/product/product-1685005654407-iphone-14-pro-vang.jpg",
+    "/images/product/product-1685005101219-iphone-7-256gb-400x400-1-600x600.jpg",
+    "/images/product/product-1685005101222-iphone-7-plus-32gb-gold-600x600-600x600.jpg",
+    "/images/product/product-1685005101223-iphone-7-plus-256gb-hh-600x600.jpg",
+    "/images/product/product-1685005101224-iphone-7-plus-red-128gb-300x300.jpg",
+    "/images/product/product-1685005101225-iphone-7-red-128gb-300x300.jpg"
+  ],
+  "price": 3999000,
+  "discount": 15,
+  "detail": {
+    "rear_camera": "12",
+    "front_camera": "4",
+    "operating_system": "IOS",
+    "display_size": "5.0",
+    "power": "2500",
+    "memory": "128",
+    "ram": "2"
+  },
+  "quantity": 0,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-05-25T03:15:13.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T09:07:34.424Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646ed5c237997ec8e2899e05"
+  },
+  "name": "Iphone 14",
+  "description": "iphone newest",
+  "categories": [
+    "new"
+  ],
+  "brand": "iphone",
+  "images": [
+    "/images/product/product-1685002910323-iphone-14-pro-max-den.jpg",
+    "/images/product/product-1685002910324-iphone-14-pro-vang.jpg"
+  ],
+  "price": 29990000,
+  "discount": 3,
+  "detail": {
+    "rear_camera": "16",
+    "front_camera": "12",
+    "operating_system": "IOS",
+    "display_size": "6",
+    "power": "4500",
+    "memory": "512",
+    "ram": "6"
+  },
+  "quantity": 150,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-05-25T03:28:02.470Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T08:21:50.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6475aaa596ce5ebb1fb9286e"
+  },
+  "name": "Iphone 12 promax",
+  "description": "Iphone release in 2021",
+  "categories": [
+    "hot sale",
+    "like new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "iphone",
+  "images": [
+    "/images/product/product-1685432997053-iphone-12-den.jpg"
+  ],
+  "price": 20000000,
+  "discount": 0,
+  "detail": {
+    "rear_camera": "16",
+    "front_camera": "8",
+    "operating_system": "IOS",
+    "display_size": "6",
+    "power": "3200",
+    "memory": "512",
+    "ram": "4"
+  },
+  "quantity": 100,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-05-30T07:49:57.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-30T07:49:57.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6475abcf3bab2603e2052696"
+  },
+  "name": "Samsung galaxy A04",
+  "description": "new product of samsung",
+  "categories": [
+    "hot sale"
+  ],
+  "brand": "samsung",
+  "images": [
+    "/images/product/product-1685433295907-samsung-galaxy-a04s-den-thumb-1-600x600.jpg",
+    "/images/product/product-1685433295908-samsung-galaxy-a04-thumb-1-600x600.jpg"
+  ],
+  "price": 13900000,
+  "discount": 5,
+  "detail": {
+    "rear_camera": "32",
+    "front_camera": "16",
+    "operating_system": "Android",
+    "display_size": "6.27",
+    "power": "4000",
+    "memory": "128",
+    "ram": "6"
+  },
+  "quantity": 100,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-05-30T07:54:55.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-30T07:54:55.943Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6476007d026e24d099d9a53b"
+  },
+  "name": "Nokia C21 Plus",
+  "description": "New product of nokia",
+  "categories": [
+    "new",
+    "men collection"
+  ],
+  "brand": "nokia",
+  "images": [
+    "/images/product/product-1685454973092-Nokia-C21-Plus-Gray-600x600.jpg"
+  ],
+  "price": 8900000,
+  "discount": 0,
+  "detail": {
+    "rear_camera": "32",
+    "front_camera": "12",
+    "operating_system": "Symbian",
+    "display_size": "6",
+    "power": "3500",
+    "memory": "128",
+    "ram": "6"
+  },
+  "quantity": 15,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-05-30T13:56:13.111Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-30T13:56:13.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64760152aa4343e0fef9019e"
+  },
+  "name": "Xiaomi Redmi node 11",
+  "description": "product of xiaomi",
+  "categories": [
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "xiaomi",
+  "images": [
+    "/images/product/product-1685455186851-xiaomi-redmi-note-11-pro-trang-thumb-600x600.jpg",
+    "/images/product/product-1685455186851-xiaomi-redmi-note-11s-xam-thumb-600x600.jpg"
+  ],
+  "price": 9900000,
+  "discount": 10,
+  "detail": {
+    "rear_camera": "64",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6.5",
+    "power": "4500",
+    "memory": "216",
+    "ram": "8"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-05-30T13:59:46.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-30T13:59:46.865Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64760516aa4343e0fef901df"
+  },
+  "name": "Xiaomi redmi C12",
+  "description": "product of xiaomi",
+  "categories": [
+    "hot sale",
+    "men collection"
+  ],
+  "brand": "xiaomi",
+  "images": [
+    "/images/product/product-1685456150556-xiaomi-redmi-12c-grey-thumb-600x600.jpg"
+  ],
+  "price": 9000000,
+  "discount": 10,
+  "detail": {
+    "rear_camera": "32",
+    "front_camera": "12",
+    "operating_system": "Android",
+    "display_size": "6.5",
+    "power": "4500",
+    "memory": "128",
+    "ram": "6"
+  },
+  "quantity": 1000,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-05-30T14:15:50.561Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-30T14:15:50.561Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64906f8cbbbae106d53e0169"
+  },
+  "name": "iphone 8 plus",
+  "description": "Sản phẩm chất lượng cao của apple. Phù hợp cho mọi đối tượng người dùng.",
+  "categories": [
+    "hot sale"
+  ],
+  "brand": "iphone",
+  "images": [
+    "/images/product/product-1687187340280-iphone-8-64gb-hh-600x600.jpg",
+    "/images/product/product-1687187340281-iphone-8-plus-256gb-hh-600x600-600x600-600x600.jpg",
+    "/images/product/product-1687187340283-iphone-8-red-256gb-do-600x600-600x600.jpg"
+  ],
+  "price": 5990000,
+  "discount": 10,
+  "detail": {
+    "rear_camera": "12",
+    "front_camera": "6",
+    "operating_system": "IOS",
+    "display_size": "6.5",
+    "power": "3200",
+    "memory": "128",
+    "ram": "3"
+  },
+  "quantity": 100,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:09:00.316Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:09:00.316Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64906fc9bbbae106d53e016b"
+  },
+  "name": "iphone 8 plus 64GB",
+  "description": "Sản phẩm chất lượng cao của apple. Phù hợp cho mọi đối tượng người dùng.",
+  "categories": [
+    "hot sale"
+  ],
+  "brand": "iphone",
+  "images": [
+    "/images/product/product-1687187401700-iphone-8-plus-256gb-hh-600x600-600x600-600x600.jpg",
+    "/images/product/product-1687187401700-iphone-8-red-256gb-do-600x600-600x600.jpg"
+  ],
+  "price": 4990000,
+  "discount": 10,
+  "detail": {
+    "rear_camera": "12",
+    "front_camera": "6",
+    "operating_system": "IOS",
+    "display_size": "6.5",
+    "power": "3200",
+    "memory": "64",
+    "ram": "3"
+  },
+  "quantity": 100,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:10:01.745Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:10:01.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907461bbbae106d53e01a3"
+  },
+  "name": "Samsung galaxy a54",
+  "description": "Sản phẩm tuyệt vời của samsung. Flag ship 2023 với cấu hình cao, màn hình sắc nét, âm thanh sống động.",
+  "categories": [
+    "hot sale",
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "samsung",
+  "images": [
+    "/images/product/product-1687188577762-samsung-galaxy-a54-thumb-tim-600x600.jpg"
+  ],
+  "price": 19999999,
+  "discount": 0,
+  "detail": {
+    "rear_camera": "6",
+    "front_camera": "16",
+    "operating_system": "",
+    "display_size": "0",
+    "power": "0",
+    "memory": "0",
+    "ram": "0"
+  },
+  "quantity": 100,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:29:37.768Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:29:37.768Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6490749abbbae106d53e01a5"
+  },
+  "name": "Samsung galaxy a54",
+  "description": "Sản phẩm tuyệt vời của samsung. Flag ship 2023 với cấu hình cao, màn hình sắc nét, âm thanh sống động.",
+  "categories": [
+    "hot sale",
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "samsung",
+  "images": [
+    "/images/product/product-1687188634338-Samsung-Galaxy-A53-xanh-thumb-600x600.jpg",
+    "/images/product/product-1687188634340-samsung-galaxy-a54-thumb-tim-600x600.jpg"
+  ],
+  "price": 19999999,
+  "discount": 0,
+  "detail": {
+    "rear_camera": "64",
+    "front_camera": "16",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "4500",
+    "memory": "216",
+    "ram": "6"
+  },
+  "quantity": 100,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:30:34.346Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:30:34.346Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907818bbbae106d53e01c8"
+  },
+  "name": "Samsung galaxy a14",
+  "description": "Diện mạo thời thượng và trẻ trung\r\nSamsung Galaxy A14 4G được thiết kế với sự thừa hưởng vẻ đẹp tinh tế đến từ dòng sản phẩm cao cấp Galaxy S23 series. Với vẻ đẹp hiện đại, màu sắc thanh lịch và góc cạnh bo tròn tinh tế, những điều này đem đến cho máy một cái nhìn cao cấp hơn về thiết kế để giúp bất kỳ ai khi cầm nắm đều trở nên sang trọng.",
+  "categories": [
+    "new",
+    "hot sale"
+  ],
+  "brand": "samsung",
+  "images": [
+    "/images/product/product-1687189528325-samsung-galaxy-a14-5g-nau-thumb-600x600.jpg",
+    "/images/product/product-1687189528326-samsung-galaxy-a14-black-thumb-600x600.jpg",
+    "/images/product/product-1687189528327-samsung-galaxy-a14-tlte-thumb-den-600x600.jpg"
+  ],
+  "price": 13900000,
+  "discount": 12,
+  "detail": {
+    "rear_camera": "64",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "4500",
+    "memory": "256",
+    "ram": "8"
+  },
+  "quantity": 33,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:45:28.353Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:45:28.353Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907857bbbae106d53e01ca"
+  },
+  "name": "Samsung galaxy a24",
+  "description": "Hiển thị nội dung tốt hơn với màn hình Super AMOLED\r\nẤn tượng đầu tiên của mình sau khi cầm trên tay chiếc Galaxy A24 là về phần màn hình của máy, mình thực sự rất ấn tượng khi đây chỉ là một mẫu điện thoại thuộc phân khúc tầm trung - cận giá rẻ, nhưng đã được Samsung trang bị tấm nền Super AMOLED cao cấp.",
+  "categories": [
+    "new",
+    "hot sale"
+  ],
+  "brand": "samsung",
+  "images": [
+    "/images/product/product-1687189591642-samsung-galaxy-a24-black-thumb-600x600.jpeg",
+    "/images/product/product-1687189591642-samsung-galaxy-a24-black-thumb-600x600.jpg"
+  ],
+  "price": 10900000,
+  "discount": 5,
+  "detail": {
+    "rear_camera": "64",
+    "front_camera": "16",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "4500",
+    "memory": "128",
+    "ram": "6"
+  },
+  "quantity": 33,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:46:31.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:46:31.653Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6490788ebbbae106d53e01cc"
+  },
+  "name": "Samsung galaxy s21",
+  "description": "Vẻ ngoài sang trọng, màu sắc thời trang\r\nGalaxy S21 FE 5G thiết kế mỏng nhẹ với độ dày 7.9 mm, khối lượng chỉ 177 gram, các góc cạnh bo tròn cho cảm giác hài hòa, mềm mại, kết hợp các tông màu thời thượng gồm tím, xanh lá, xám và trắng giúp bạn dễ dàng tạo nên phong cách riêng đầy cá tính.",
+  "categories": [
+    "new",
+    "hot sale"
+  ],
+  "brand": "samsung",
+  "images": [
+    "/images/product/product-1687189646712-Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+    "/images/product/product-1687189646712-samsung-galaxy-s21+.png",
+    "/images/product/product-1687189646712-samsung-galaxy-s21-2.png"
+  ],
+  "price": 10900000,
+  "discount": 5,
+  "detail": {
+    "rear_camera": "64",
+    "front_camera": "16",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "4000",
+    "memory": "128",
+    "ram": "6"
+  },
+  "quantity": 33,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:47:26.728Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:47:26.728Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649078c9bbbae106d53e01ce"
+  },
+  "name": "Samsung galaxy s23 ultra",
+  "description": "Tạo hình sang trọng đầy tinh tế\r\nVề thiết kế thì Samsung Galaxy S23 Ultra sẽ tiếp tục thừa hưởng kiểu dáng sang trọng đến từ thế hệ trước, vẫn là bộ khung kim loại, mặt lưng kính cùng kiểu tạo hình bo cong nhẹ ở cạnh bên và màn hình.",
+  "categories": [
+    "new",
+    "hot sale"
+  ],
+  "brand": "samsung",
+  "images": [
+    "/images/product/product-1687189705858-samsung-galaxy-s23-plus-600x600.jpg",
+    "/images/product/product-1687189705858-samsung-galaxy-s23-ultra-thumb-xanh-600x600.jpg"
+  ],
+  "price": 10900000,
+  "discount": 5,
+  "detail": {
+    "rear_camera": "128",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "5000",
+    "memory": "256",
+    "ram": "8"
+  },
+  "quantity": 33,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:48:25.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:48:25.903Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907a44bbbae106d53e0270"
+  },
+  "name": "Oppo Find N2 flip",
+  "description": "Là mẫu điện thoại gập dọc đầu tiên của OPPO, vì thế Find N2 Flip mang đến cho mình khá nhiều sự tò mò cũng như cảm hứng về phần thiết kế, điều này giúp quá trình sử dụng trở nên thú vị hơn so với đại đa số những mẫu máy thông thường khác",
+  "categories": [
+    "new"
+  ],
+  "brand": "Oppo",
+  "images": [
+    "/images/product/product-1687190084092-oppo-find-n2-flip-purple-thumb-1-600x600-1-600x600.jpg"
+  ],
+  "price": 21000000,
+  "discount": 0,
+  "detail": {
+    "rear_camera": "128",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6.5",
+    "power": "5000",
+    "memory": "256",
+    "ram": "12"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:54:44.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:54:44.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907a81bbbae106d53e0272"
+  },
+  "name": "Oppo Reno 8T 5G",
+  "description": "Thiết kế với kiểu dáng bắt mắt\r\nQua những lần chạm đầu tiên trên chiếc Reno8 T 5G thì mình thấy đây là một chiếc điện thoại có độ hoàn thiện khá tốt, máy mang lại cho mình một cảm giác cầm nắm tương đối là đầm tay, hai bên cạnh cũng được làm bo cong giúp hạn chế tình trạng cấn tay mang đến cho mình một trải nghiệm sử dụng khá là thoải mái.",
+  "categories": [
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "Oppo",
+  "images": [
+    "/images/product/product-1687190145025-oppo-reno8t-4g-den1-thumb-600x600.jpg",
+    "/images/product/product-1687190145025-oppo-reno8t-vang1-thumb-600x600.jpg"
+  ],
+  "price": 13900000,
+  "discount": 3,
+  "detail": {
+    "rear_camera": "128",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6.5",
+    "power": "5000",
+    "memory": "256",
+    "ram": "12"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:55:45.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:55:45.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907a96bbbae106d53e0274"
+  },
+  "name": "Oppo Reno 8",
+  "description": "Thiết kế với kiểu dáng bắt mắt\r\nQua những lần chạm đầu tiên trên chiếc Reno8 5G thì mình thấy đây là một chiếc điện thoại có độ hoàn thiện khá tốt, máy mang lại cho mình một cảm giác cầm nắm tương đối là đầm tay, hai bên cạnh cũng được làm bo cong giúp hạn chế tình trạng cấn tay mang đến cho mình một trải nghiệm sử dụng khá là thoải mái.",
+  "categories": [
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "Oppo",
+  "images": [
+    "/images/product/product-1687190166931-oppo-reno8-pro-thumb-xanh-1-600x600.jpg"
+  ],
+  "price": 12900000,
+  "discount": 3,
+  "detail": {
+    "rear_camera": "128",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6.5",
+    "power": "5000",
+    "memory": "256",
+    "ram": "12"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:56:06.940Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:56:06.940Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907acabbbae106d53e0276"
+  },
+  "name": "Oppo A55",
+  "description": "Lớp “áo” đẹp mãn nhãn\r\nOPPO A55 4G có 3 phiên bản màu độc đáo là xanh lá, xanh dương và màu đen. Thiết kế cong 3D cùng kích thước mỏng nhẹ, OPPO A55 4G vừa vặn trong tay người cầm, cho từng thao tác trải nghiệm thoải mái và chắc chắn",
+  "categories": [
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "Oppo",
+  "images": [
+    "/images/product/product-1687190218649-oppo-a55-4g-thumb-new-600x600.jpg"
+  ],
+  "price": 7900000,
+  "discount": 3,
+  "detail": {
+    "rear_camera": "64",
+    "front_camera": "15",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "4500",
+    "memory": "128",
+    "ram": "6"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:56:58.655Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:56:58.655Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907b00bbbae106d53e0278"
+  },
+  "name": "Oppo Find X5 PRO",
+  "description": "Tỏa sáng với ngoại hình bắt mắt đầy sang trọng\r\nĐiều làm mình mê hoặc ngay từ cái nhìn đầu tiên là mặt lưng hết sức bóng bẩy, trên phiên bản màu đen thì mình hoàn toàn có thể sử dụng máy với công dụng tương tự như một chiếc gương soi tiện ích.",
+  "categories": [
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "Oppo",
+  "images": [
+    "/images/product/product-1687190272713-oppo-find-x5-pro-trang-thumb-1-600x600.jpg"
+  ],
+  "price": 10899999,
+  "discount": 4,
+  "detail": {
+    "rear_camera": "64",
+    "front_camera": "16",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "4500",
+    "memory": "128",
+    "ram": "8"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:57:52.720Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:57:52.720Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907b39bbbae106d53e027a"
+  },
+  "name": "Oppo Reno 6 PRO",
+  "description": "Hiệu năng cực mạnh mẽ với Snapdragon 870\r\nReno6 Pro 5G trang bị bộ vi xử lý mạnh mẽ Snapdragon 870 đến từ Qualcomm, đạt tốc độ xử lý cao trên xung nhịp lên đến 3.2 GHz, hiệu suất CPU tăng lên 12% và GPU 10% so với thế hệ chipset tiền nhiệm, mang đến trải nghiệm ấn tượng trên từng tác vụ giải trí lẫn công việc.",
+  "categories": [
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "Oppo",
+  "images": [
+    "/images/product/product-1687190329761-oppo-reno6-pro-grey-600x600.jpg"
+  ],
+  "price": 12900000,
+  "discount": 4,
+  "detail": {
+    "rear_camera": "128",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "4500",
+    "memory": "256",
+    "ram": "8"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:58:49.767Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:58:49.767Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64907b75bbbae106d53e027c"
+  },
+  "name": "Oppo A98",
+  "description": "Cung cấp năng lượng cho ngày dài năng động\r\nBạn thường lo lắng về việc những chiếc điện thoại có dung lượng pin thấp không đủ đáp ứng nhu cầu sử dụng trong ngày của bạn, hiểu được nỗi lo đó OPPO đã trang bị cho A98 5G viên pin có dung lượng 5000 mAh.",
+  "categories": [
+    "new",
+    "men collection",
+    "women collection"
+  ],
+  "brand": "Oppo",
+  "images": [
+    "/images/product/product-1687190389145-oppo-a98-5g-xanh-thumb-1-600x600.jpg"
+  ],
+  "price": 20900000,
+  "discount": 4,
+  "detail": {
+    "rear_camera": "128",
+    "front_camera": "32",
+    "operating_system": "Android",
+    "display_size": "6",
+    "power": "5500",
+    "memory": "512",
+    "ram": "12"
+  },
+  "quantity": 10,
+  "sold": 0,
+  "ratings": [],
+  "createdAt": {
+    "$date": "2023-06-19T15:59:49.189Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-19T15:59:49.189Z"
+  },
+  "__v": 0
+}]

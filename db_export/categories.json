@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "646524e20bf5ec90c4f68a15"
+  },
+  "name": "hot sale",
+  "slug": "hot-sale",
+  "createdAt": {
+    "$date": "2023-05-17T19:02:58.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T20:58:23.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6469f9ef9a1ea3fdf4bc94be"
+  },
+  "name": "men collection",
+  "slug": "men-collection",
+  "createdAt": {
+    "$date": "2023-05-21T11:01:03.422Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T20:58:36.068Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6469f9f89a1ea3fdf4bc94c1"
+  },
+  "name": "women collection",
+  "slug": "women-collection",
+  "createdAt": {
+    "$date": "2023-05-21T11:01:12.911Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T20:58:46.645Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646a725bff80e0b5436a8906"
+  },
+  "name": "new",
+  "slug": "new",
+  "createdAt": {
+    "$date": "2023-05-21T19:34:51.420Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T20:58:58.102Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646e7aa7672367ada95c196d"
+  },
+  "name": "like new",
+  "slug": "like-new",
+  "createdAt": {
+    "$date": "2023-05-24T20:59:19.920Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T20:59:19.920Z"
+  },
+  "__v": 0
+}]

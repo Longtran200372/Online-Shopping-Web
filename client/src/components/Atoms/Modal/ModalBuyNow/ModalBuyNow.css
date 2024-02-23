@@ -1,0 +1,58 @@
+ #modal-buy-now .modal-dialog {
+     min-width: 700px;
+     width    : 50%;
+ }
+
+
+ #modal-buy-now .modal-body table>thead {
+     border-bottom: 1px solid #ccc;
+     margin-bottom: 10px;
+ }
+
+ #modal-buy-now .modal-body table>tbody tr {
+     height: 120px;
+ }
+
+
+ #modal-buy-now .modal-body .product-visible {
+     display    : flex;
+     align-items: center;
+     margin     : auto
+ }
+
+ #modal-buy-now .modal-body .product-image {
+     display            : inline-block;
+     height             : 100px;
+     width              : 100px;
+     margin             : 10px 0;
+     background-position: center;
+     background-size    : contain;
+ }
+
+ #modal-buy-now .quantity-cell {}
+
+ #modal-buy-now .quantity-cell .quantity-group {
+     display        : inline-flex;
+     justify-content: center;
+     align-items    : center;
+     border         : 1px solid black;
+     border-radius  : 99999px;
+ }
+
+ #modal-buy-now .quantity-cell button {
+     border          : none;
+     background-color: transparent;
+     padding         : 0px 5px;
+     min-width       : 22px;
+ }
+
+ #modal-buy-now .quantity-cell button:hover {
+     font-weight: 700;
+ }
+
+ #modal-buy-now .quantity-cell span {
+     min-width   : 30px;
+     text-align  : center;
+     border-left : 1px solid #333;
+     border-right: 1px solid #333;
+ }
